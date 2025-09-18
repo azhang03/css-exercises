@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.odd, .cooler
+{
+    background-color:pink;
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.cooler
+{
+    font-size:24px;
+}
+
+#oneID
+{
+    color:blue;
+    font-size:36px;
+}
+
+#twoID
+{
+    background-color:lightgreen;
+    font-size:24px;
+    font-weight:bold;
+}
